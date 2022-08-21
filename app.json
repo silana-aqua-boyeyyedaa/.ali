@@ -21,8 +21,8 @@
       },
            "URL_1LINK": {
             "description": "",
-            "القيمة" : "https://youtu.be/WZ-ln1n4-WQ" ،
-            "required": true
+            "القيمة" : "https://youtu.be/WZ-ln1n4-WQ"
+            "مطلوب" : صحي
       },
      "URL_2NAME": {
             "description": "",
